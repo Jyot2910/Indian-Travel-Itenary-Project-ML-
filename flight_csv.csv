@@ -1,0 +1,41 @@
+Flight_No,Airline,Source,Destination,Departure,Arrival,Duration,Price,Seats_Available
+F101,IndiGo,Chennai,Bangalore,00:13,11:47,3h 24m,3484,84
+F102,SpiceJet,Delhi,Hyderabad,16:50,00:15,3h 1m,8227,83
+F103,Air India,Kolkata,Mumbai,13:01,04:18,5h 46m,5142,95
+F104,SpiceJet,Chennai,Bangalore,09:39,05:06,5h 21m,9257,50
+F105,GoAir,Delhi,Chennai,09:43,21:33,4h 57m,11437,143
+F106,SpiceJet,Chennai,Delhi,19:50,08:38,4h 10m,7584,122
+F107,Akasa Air,Hyderabad,Kolkata,20:00,22:15,5h 12m,3748,59
+F108,GoAir,Kolkata,Bangalore,22:53,01:08,3h 9m,11235,125
+F109,GoAir,Hyderabad,Bangalore,02:35,12:02,4h 41m,5643,66
+F110,GoAir,Delhi,Hyderabad,21:11,11:27,5h 37m,5325,75
+F111,GoAir,Hyderabad,Delhi,17:27,07:34,4h 53m,7263,164
+F112,GoAir,Chennai,Mumbai,08:52,15:35,4h 11m,5582,157
+F113,Air India,Chennai,Kolkata,04:14,06:25,3h 32m,4496,119
+F114,IndiGo,Delhi,Kolkata,18:45,15:43,4h 29m,8024,74
+F115,Vistara,Mumbai,Chennai,08:00,14:04,2h 33m,7102,82
+F116,Air India,Chennai,Kolkata,05:06,03:10,4h 21m,7844,134
+F117,SpiceJet,Bangalore,Delhi,21:33,02:55,2h 30m,10848,136
+F118,Vistara,Hyderabad,Delhi,17:50,08:29,4h 47m,3557,149
+F119,GoAir,Kolkata,Bangalore,17:43,22:31,4h 28m,8459,32
+F120,GoAir,Bangalore,Kolkata,08:36,16:42,5h 17m,8646,47
+F121,SpiceJet,Kolkata,Hyderabad,22:20,08:52,5h 9m,3298,147
+F122,GoAir,Delhi,Hyderabad,16:51,07:39,3h 15m,7066,106
+F123,Akasa Air,Kolkata,Mumbai,03:58,10:32,2h 59m,11777,151
+F124,Akasa Air,Mumbai,Hyderabad,09:57,08:30,4h 57m,9488,82
+F125,Vistara,Kolkata,Bangalore,16:39,15:04,4h 25m,4316,85
+F126,IndiGo,Mumbai,Hyderabad,17:47,03:43,3h 30m,3060,107
+F127,SpiceJet,Chennai,Hyderabad,08:21,06:14,4h 3m,9963,131
+F128,GoAir,Mumbai,Hyderabad,09:35,16:01,5h 24m,5893,161
+F129,IndiGo,Delhi,Bangalore,10:14,14:36,3h 18m,6169,117
+F130,Air India,Mumbai,Kolkata,14:56,10:00,4h 18m,4945,137
+F131,Air India,Kolkata,Bangalore,00:37,18:52,5h 27m,5406,165
+F132,IndiGo,Kolkata,Hyderabad,13:37,03:42,4h 26m,7656,60
+F133,GoAir,Delhi,Hyderabad,22:57,20:27,3h 23m,10360,73
+F134,Air India,Chennai,Hyderabad,20:15,17:11,3h 38m,3699,135
+F135,SpiceJet,Bangalore,Delhi,13:05,15:42,3h 14m,9062,44
+F136,SpiceJet,Delhi,Mumbai,12:03,13:00,3h 27m,10751,142
+F137,Vistara,Delhi,Kolkata,23:24,13:25,4h 52m,4109,109
+F138,SpiceJet,Mumbai,Kolkata,17:51,10:18,5h 37m,10938,175
+F139,GoAir,Delhi,Chennai,18:23,08:26,3h 58m,10085,42
+F140,GoAir,Mumbai,Chennai,10:44,01:45,4h 29m,8229,159

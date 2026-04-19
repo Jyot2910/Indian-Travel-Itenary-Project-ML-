@@ -1,0 +1,43 @@
+city,event_name,event_type,venue,price,rating
+Kolkata,Theatre Play - Evening Special,Theatre Play,Auditorium,2334,4.8
+Kolkata,Theatre Play - Live,Theatre Play,City Hall,2692,4.9
+Delhi,YouTube Meetup - Night Jam,YouTube Meetup,Open Air Grounds,2215,4.4
+Mumbai,Music Concert - Evening Special,Music Concert,Cultural Center,263,4.8
+Mumbai,YouTube Meetup - Festival Edition,YouTube Meetup,Grand Arena,652,4.1
+Hyderabad,Art Exhibition - Evening Special,Art Exhibition,Open Air Grounds,871,4.0
+Kolkata,Stand-up Comedy - Live,Stand-up Comedy,Grand Arena,226,4.0
+Kolkata,YouTube Meetup - Live,YouTube Meetup,Open Air Grounds,2624,4.0
+Kolkata,Stand-up Comedy - Live,Stand-up Comedy,Open Air Grounds,816,3.8
+Chennai,Music Concert - Festival Edition,Music Concert,Open Air Grounds,584,4.3
+Kolkata,Art Exhibition - Live,Art Exhibition,City Hall,1930,4.3
+Kolkata,Stand-up Comedy - Festival Edition,Stand-up Comedy,Clubhouse,402,4.2
+Jaipur,Stand-up Comedy - Live,Stand-up Comedy,Cultural Center,2299,4.9
+Mumbai,Art Exhibition - Festival Edition,Art Exhibition,Clubhouse,2702,4.2
+Kolkata,YouTube Meetup - Live,YouTube Meetup,Clubhouse,2925,4.5
+Kolkata,Art Exhibition - Live,Art Exhibition,City Hall,1232,3.6
+Chennai,Music Concert - Evening Special,Music Concert,Auditorium,2439,3.7
+Delhi,YouTube Meetup - Evening Special,YouTube Meetup,Clubhouse,997,3.7
+Bengaluru,Theatre Play - Night Jam,Theatre Play,Auditorium,1140,4.7
+Jaipur,Music Concert - Festival Edition,Music Concert,Cultural Center,2039,4.0
+Chennai,Art Exhibition - Festival Edition,Art Exhibition,Auditorium,1214,4.0
+Bengaluru,Stand-up Comedy - Live,Stand-up Comedy,City Hall,2265,3.5
+Chennai,Music Concert - Night Jam,Music Concert,Clubhouse,2921,3.7
+Bengaluru,Art Exhibition - Live,Art Exhibition,Cultural Center,2394,4.4
+Mumbai,Stand-up Comedy - Live,Stand-up Comedy,Open Air Grounds,1525,3.9
+Delhi,Theatre Play - Live,Theatre Play,Clubhouse,1718,4.2
+Mumbai,Music Concert - Live,Music Concert,Cultural Center,1371,4.0
+Bengaluru,Art Exhibition - Festival Edition,Art Exhibition,Clubhouse,690,5.0
+Kolkata,Stand-up Comedy - Night Jam,Stand-up Comedy,Clubhouse,2933,3.5
+Delhi,Theatre Play - Night Jam,Theatre Play,City Hall,613,3.7
+Mumbai,Theatre Play - Evening Special,Theatre Play,Clubhouse,443,3.8
+Delhi,Music Concert - Night Jam,Music Concert,Open Air Grounds,267,4.9
+Bengaluru,Theatre Play - Evening Special,Theatre Play,City Hall,971,3.6
+Jaipur,YouTube Meetup - Night Jam,YouTube Meetup,Grand Arena,2882,4.1
+Delhi,Music Concert - Festival Edition,Music Concert,Auditorium,261,3.9
+Pune,Music Concert - Evening Special,Music Concert,Grand Arena,1215,3.7
+Chennai,Theatre Play - Evening Special,Theatre Play,City Hall,2392,3.8
+Bengaluru,Theatre Play - Night Jam,Theatre Play,City Hall,24,
+Delhi,Kriti Gupta Stand-up Comedy - Live,Stand-up Comedy,City Hall,1800,4.6
+Mumbai,Kriti Gupta Stand-up Comedy - Evening Special,Stand-up Comedy,Grand Arena,2100,4.7
+Bengaluru,Kriti Gupta Stand-up Comedy - Festival Edition,Stand-up Comedy,Cultural Center,1950,4.8
+Kolkata,Kriti Gupta Stand-up Comedy - Night Jam,Stand-up Comedy,Auditorium,1750,4.5

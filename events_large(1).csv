@@ -1,0 +1,109 @@
+city,event_name,event_type,date,venue,price,rating
+Jaipur,Theatre Play - Night Jam,Theatre Play,02-10-2025,Open Air Grounds,1767,4.7
+,,,,,,
+,,,,,,
+Kolkata,Theatre Play - Evening Special,Theatre Play,07-10-2025,Auditorium,2334,4.8
+Kolkata,Theatre Play - Live,Theatre Play,12-09-2025,City Hall,2692,4.9
+Delhi,YouTube Meetup - Night Jam,YouTube Meetup,19-08-2025,Open Air Grounds,2215,4.4
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Pune,Stand-up Comedy - Night Jam,Stand-up Comedy,25-09-2025,Auditorium,1579,3.8
+Mumbai,Music Concert - Evening Special,Music Concert,17-09-2025,Cultural Center,263,4.8
+Mumbai,YouTube Meetup - Festival Edition,YouTube Meetup,10-10-2025,Grand Arena,652,4.1
+,,,,,,
+,,,,,,
+,,,,,,
+Hyderabad,Art Exhibition - Evening Special,Art Exhibition,03-10-2025,Open Air Grounds,871,4
+Pune,Theatre Play - Night Jam,Theatre Play,23-08-2025,Grand Arena,1772,4.1
+Kolkata,Stand-up Comedy - Live,Stand-up Comedy,12-09-2025,Grand Arena,226,4
+Kolkata,YouTube Meetup - Live,YouTube Meetup,09-10-2025,Open Air Grounds,2624,4
+,,,,,,
+,,,,,,
+Kolkata,Stand-up Comedy - Live,Stand-up Comedy,02-09-2025,Open Air Grounds,816,3.8
+Jaipur,Music Concert - Festival Edition,Music Concert,06-10-2025,City Hall,368,4.2
+,,,,,,
+Chennai,Music Concert - Festival Edition,Music Concert,17-08-2025,Open Air Grounds,584,4.3
+Kolkata,Art Exhibition - Live,Art Exhibition,25-09-2025,City Hall,1930,4.3
+Kolkata,Stand-up Comedy - Festival Edition,Stand-up Comedy,07-10-2025,Clubhouse,402,4.2
+Jaipur,Stand-up Comedy - Live,Stand-up Comedy,17-08-2025,Cultural Center,2299,4.9
+Mumbai,Art Exhibition - Festival Edition,Art Exhibition,01-10-2025,Clubhouse,2702,4.2
+Kolkata,YouTube Meetup - Live,YouTube Meetup,17-08-2025,Clubhouse,2925,4.5
+Kolkata,Art Exhibition - Live,Art Exhibition,16-08-2025,City Hall,1232,3.6
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Chennai,Music Concert - Evening Special,Music Concert,09-09-2025,Auditorium,2439,3.7
+Jaipur,Music Concert - Live,Music Concert,05-10-2025,Cultural Center,2727,3.9
+Delhi,YouTube Meetup - Evening Special,YouTube Meetup,14-09-2025,Clubhouse,997,3.7
+Bengaluru,Theatre Play - Night Jam,Theatre Play,11-09-2025,Auditorium,1140,4.7
+Jaipur,Music Concert - Festival Edition,Music Concert,01-10-2025,Cultural Center,2039,4
+Chennai,Art Exhibition - Festival Edition,Art Exhibition,27-09-2025,Auditorium,1214,4
+,,,,,,
+,,,,,,
+Pune,Art Exhibition - Live,Art Exhibition,03-09-2025,Open Air Grounds,2095,3.9
+Bengaluru,Stand-up Comedy - Live,Stand-up Comedy,30-08-2025,City Hall,2265,3.5
+Pune,Stand-up Comedy - Festival Edition,Stand-up Comedy,15-08-2025,Clubhouse,1636,3.9
+Chennai,Music Concert - Night Jam,Music Concert,05-10-2025,Clubhouse,2921,3.7
+Bengaluru,Art Exhibition - Live,Art Exhibition,05-09-2025,Cultural Center,2394,4.4
+,,,,,,
+,,,,,,
+,,,,,,
+Jaipur,YouTube Meetup - Festival Edition,YouTube Meetup,24-09-2025,Clubhouse,583,3.7
+Mumbai,Stand-up Comedy - Live,Stand-up Comedy,07-09-2025,Open Air Grounds,1525,3.9
+Delhi,Theatre Play - Live,Theatre Play,19-08-2025,Clubhouse,1718,4.2
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Jaipur,YouTube Meetup - Festival Edition,YouTube Meetup,26-08-2025,Cultural Center,745,3.8
+Mumbai,Music Concert - Live,Music Concert,27-09-2025,Cultural Center,1371,4
+Bengaluru,Art Exhibition - Festival Edition,Art Exhibition,14-09-2025,Clubhouse,690,5
+Pune,Art Exhibition - Live,Art Exhibition,04-10-2025,Auditorium,1105,4.5
+Pune,Theatre Play - Night Jam,Theatre Play,22-08-2025,Auditorium,1019,3.5
+,,,,,,
+,,,,,,
+,,,,,,
+Kolkata,Stand-up Comedy - Night Jam,Stand-up Comedy,17-08-2025,Clubhouse,2933,3.5
+Delhi,Theatre Play - Night Jam,Theatre Play,16-09-2025,City Hall,613,3.7
+Mumbai,Theatre Play - Evening Special,Theatre Play,19-09-2025,Clubhouse,443,3.8
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Delhi,Music Concert - Night Jam,Music Concert,24-08-2025,Open Air Grounds,267,4.9
+Bengaluru,Theatre Play - Evening Special,Theatre Play,02-10-2025,City Hall,971,3.6
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Jaipur,YouTube Meetup - Night Jam,YouTube Meetup,18-08-2025,Grand Arena,2882,4.1
+Delhi,Music Concert - Festival Edition,Music Concert,25-08-2025,Auditorium,261,3.9
+Pune,Music Concert - Evening Special,Music Concert,28-08-2025,Grand Arena,1215,3.7
+Chennai,Theatre Play - Evening Special,Theatre Play,09-09-2025,City Hall,2392,3.8
+Bengaluru,Theatre Play - Night Jam,Theatre Play,30-08-2025,City Hall,2422,3.6
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Pune,Music Concert - Festival Edition,Music Concert,24-09-2025,City Hall,1792,5
+Pune,Theatre Play - Night Jam,Theatre Play,01-10-2025,Clubhouse,1669,4
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Bengaluru,Theatre Play - Live,Theatre Play,23-08-2025,City Hall,2728,4.8
+Hyderabad,Art Exhibition - Live,Art Exhibition,13-09-2025,Auditorium,2742,3.9
+,,,,,,
+,,,,,,
+,,,,,,
+Bengaluru,The Kriti Gupta Show,Stand-up Comedy,20-08-2025,City Hall,754,4.5
+Bengaluru,The Kriti Gupta Show,Stand-up Comedy,07-09-2025,Clubhouse,1806,4.9
+Kolkata,The Kriti Gupta Show,Stand-up Comedy,11-09-2025,Grand Arena,1316,4.1
+Chennai,The Kriti Gupta Show,Stand-up Comedy,30-08-2025,City Hall,1539,4.3
+Hyderabad,The Kriti Gupta Show,Stand-up Comedy,27-08-2025,Auditorium,589,4.9
+Chennai,The Kriti Gupta Show,Stand-up Comedy,10-09-2025,Auditorium,1017,4.5
+Jaipur,The Kriti Gupta Show,Stand-up Comedy,11-09-2025,Grand Arena,609,4.5
+Bengaluru,The Kriti Gupta Show,Stand-up Comedy,31-08-2025,Grand Arena,1065,4.2

@@ -1,0 +1,41 @@
+Train_No,Train_Name,Source,Destination,Departure,Arrival,Class,Price,Seats_Available
+T501,Mail Express,Kolkata,Hyderabad,11:13,02:29,Sleeper,1526,105
+T502,Rajdhani Express,Bangalore,Delhi,05:55,05:47,AC 2-Tier,2813,99
+T503,Rajdhani Express,Chennai,Hyderabad,09:04,04:42,AC 3-Tier,3489,159
+T504,Shatabdi Express,Kolkata,Mumbai,17:19,14:50,Sleeper,3281,207
+T505,Shatabdi Express,Delhi,Hyderabad,02:04,12:10,First AC,983,223
+T506,Shatabdi Express,Hyderabad,Delhi,20:50,06:27,AC 3-Tier,2748,94
+T507,Mail Express,Kolkata,Chennai,02:36,17:34,Sleeper,3344,76
+T508,Shatabdi Express,Kolkata,Hyderabad,13:54,22:04,AC 3-Tier,994,330
+T509,Rajdhani Express,Mumbai,Hyderabad,20:04,18:23,Sleeper,1524,183
+T510,Shatabdi Express,Chennai,Bangalore,17:02,07:37,AC 2-Tier,2034,317
+T511,Superfast Express,Delhi,Kolkata,14:42,15:38,First AC,2611,211
+T512,Superfast Express,Mumbai,Hyderabad,04:07,22:57,Sleeper,2318,199
+T513,Shatabdi Express,Hyderabad,Bangalore,11:07,10:34,Sleeper,1135,59
+T514,Rajdhani Express,Mumbai,Delhi,23:13,21:46,Sleeper,2419,229
+T515,Duronto Express,Mumbai,Bangalore,16:30,11:41,First AC,742,114
+T516,Superfast Express,Hyderabad,Chennai,05:54,19:24,Sleeper,2563,148
+T517,Duronto Express,Hyderabad,Kolkata,00:57,22:17,First AC,1041,396
+T518,Superfast Express,Hyderabad,Delhi,20:40,16:28,First AC,2945,248
+T519,Rajdhani Express,Bangalore,Chennai,21:26,04:30,AC 2-Tier,1056,194
+T520,Superfast Express,Chennai,Kolkata,07:48,05:28,AC 3-Tier,1484,204
+T521,Shatabdi Express,Chennai,Mumbai,17:34,18:27,AC 3-Tier,2672,351
+T522,Mail Express,Delhi,Mumbai,18:57,19:36,AC 3-Tier,2213,137
+T523,Superfast Express,Kolkata,Hyderabad,20:15,08:25,First AC,1512,267
+T524,Superfast Express,Kolkata,Chennai,18:03,10:00,Sleeper,2139,216
+T525,Shatabdi Express,Mumbai,Kolkata,19:26,11:52,AC 2-Tier,3048,219
+T526,Shatabdi Express,Bangalore,Chennai,14:44,06:36,AC 3-Tier,3203,71
+T527,Duronto Express,Kolkata,Bangalore,17:15,10:43,AC 2-Tier,2853,154
+T528,Mail Express,Kolkata,Chennai,06:42,01:54,Sleeper,2890,385
+T529,Superfast Express,Delhi,Bangalore,04:23,16:55,Sleeper,697,95
+T530,Rajdhani Express,Chennai,Mumbai,07:35,16:26,First AC,2977,372
+T531,Mail Express,Kolkata,Mumbai,22:55,07:22,Sleeper,1989,381
+T532,Shatabdi Express,Kolkata,Delhi,02:17,20:05,First AC,794,356
+T533,Shatabdi Express,Mumbai,Kolkata,15:22,17:46,Sleeper,2366,337
+T534,Duronto Express,Delhi,Mumbai,01:22,22:09,AC 2-Tier,1047,129
+T535,Mail Express,Chennai,Bangalore,20:40,20:30,Sleeper,949,212
+T536,Mail Express,Kolkata,Hyderabad,15:34,06:11,AC 2-Tier,1851,216
+T537,Superfast Express,Hyderabad,Kolkata,06:16,15:58,Sleeper,2226,264
+T538,Mail Express,Mumbai,Delhi,18:50,13:43,Sleeper,1264,317
+T539,Mail Express,Hyderabad,Delhi,09:47,23:04,AC 3-Tier,2497,235
+T540,Mail Express,Bangalore,Hyderabad,03:34,18:21,Sleeper,2632,248
